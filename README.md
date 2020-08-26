@@ -26,7 +26,7 @@ username!
 
 
 
-cbegay89 git commit -a -m "Hello, this is Cynthia Begay"
+cbegay89 [**@cbegay89**](https://github.com/cbegay89) Hello, this is Cynthia Begay.
 
 mbolshakova
 [**@mbolshakova**](https://github.com/mbolshakova) I was originally born in Belarus and have a Corgi named Nugget.  <img src="https://avatars0.githubusercontent.com/u/42354479?s=460&u=ae92b8aa2b1aae4d0c8034ff90a1144aef8d1b82&v=4" alt="An old picture of me" width="40px">
@@ -78,7 +78,7 @@ jiqingwu1997
 
 shawnyeusc
 
-[***MingzhiYe16***](https://github.com/MingzhiYe16) I'm from Hefei, China. And I'm interested in the data science and the culture of the US
+MingzhiYe16 I'm from Hefei, China. And I'm interested in the data science and the culture of the US
 
 hankezhe “hi everyone my name is Hanke and I am a PhD student in Health Econ”
 
